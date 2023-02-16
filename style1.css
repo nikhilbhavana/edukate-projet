@@ -1,0 +1,32 @@
+
+.lgnbtn{
+    margin-top: 15pt;
+    padding: 3pt;
+}
+.topbar{
+    text-align: center !important;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.text-center{
+    color: blue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.card{
+    border: 10px;
+}
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.card{
+    flex: 30%;
+}
+.bot{
+    margin-top: 10%;
+}
+.to{
+    margin-top: 10%;
+}
